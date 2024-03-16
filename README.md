@@ -6,9 +6,7 @@ Welcome to Purple Weather, your go-to application for checking the weather forec
 
 Purple Weather allows you to enter the name of a city and view its specific weather conditions. The application features an autocomplete feature to assist you in selecting the city name efficiently. Additionally, Purple Weather provides a visually pleasing UI/UX by seamlessly blending in a photo from the selected city with the rest of the application.
 
-## What You Will Learn
-
-By using WeatherNow, you will learn the following:
+## Technical Topics Covered
 
 - **Creating GET Requests:** Understand how to create GET requests to fetch data from external APIs.
   
